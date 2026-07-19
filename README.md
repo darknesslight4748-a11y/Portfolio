@@ -36,9 +36,6 @@ portfolio/
 └── README.md
 ```
 
-## Publishing it
+## Link
 
-Once you're happy with it, you can host it for free with any of:
-- GitHub Pages
-- Netlify (drag-and-drop the folder)
-- Vercel
+- https://adrianbayotas-portfolio.netlify.app
